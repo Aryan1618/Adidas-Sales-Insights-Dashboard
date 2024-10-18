@@ -3,7 +3,7 @@
 
 Image
 
-(https://github.com/user-attachments/assets/c79f9e47-78b2-46df-87ee-de8f92d0874e) 
+![Adidas Sales](https://github.com/user-attachments/assets/c5c10432-db6e-4116-a976-869ea5c6653a)
 
 This project visualizes the sales performance of Adidas using a comprehensive dashboard. The dashboard includes various metrics and visualizations to provide a detailed breakdown of sales across different dimensions.
 
